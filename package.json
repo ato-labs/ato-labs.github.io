@@ -2,7 +2,7 @@
   "name": "ato-labs.github.io",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ato-labs.guthub.io/",
+  "homepage": "https://ato-labs.github.io/",
   "scripts": {
     "dev": "next dev --turbopack",
     "build": "next build",
