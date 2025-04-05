@@ -4,7 +4,8 @@ import './globals.css'
 
 const hiMelody = Hi_Melody({
   weight: '400',
-  style: 'normal'
+  style: 'normal',
+  subsets: ['latin']
 })
 
 export const metadata: Metadata = {
